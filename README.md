@@ -10,7 +10,7 @@
 
 ### Video Tutorial:
 
-[![Tutorial](https://yt-embed.herokuapp.com/embed?v=fXXEcAkWAFU)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
+[![Tutorial](https://yt-embed.herokuapp.com/embed?v=WWeP5e2Iv-4)](https://youtu.be/WWeP5e2Iv-4)
 
 ☆ Video by [Isuru Udara](https://youtu.be/WWeP5e2Iv-4) ☆
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/WWeP5e2Iv-4)
