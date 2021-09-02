@@ -8,7 +8,15 @@
 මේකෙ main.txt තමයි කෝඩ් එක පාවිච්චි කරන විදිහ දැනගන්න use.txt වලට යන්න..
 
 
-## Owners
+### Video Tutorial:
+Complete guide on deploying @TheAnkiVectorbot's clone on Heroku.
+
+[![Tutorial](https://yt-embed.herokuapp.com/embed?v=fXXEcAkWAFU)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
+
+☆ Video by [Isuru Udara](https://www.youtube.com/watch?v=fXXEcAkWAFU) ☆
+[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
+
+
 ![Mr Real Hacker](https://github.com/Real-Hack.png?size=100px)
 ![King Amda](https://github.com/King-Amda.png?size=100px)
 
